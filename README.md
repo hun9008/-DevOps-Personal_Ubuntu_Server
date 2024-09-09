@@ -1,5 +1,5 @@
 
-<img src="/DevOps_architecture.png">
+<img src="/src/DevOps_architecture.png">
 
 ## Motivation
 
@@ -25,7 +25,7 @@ Mac을 사용중이라, BalenaEtcher를 이용해 USB를 포멧하고 Ubuntu iso
 
 만든 USB로 Ubuntu를 설치하고 Window를 삭제했습니다. 여기서 USB부팅 순서때문에 한참 헤맸었는데, BIOS에서 부팅 순서를 바꿔주니 금방 해결됬습니다.
 
-<img src="/DevOps_remote.png">
+<img src="/src/DevOps_remote.png">
 
 ### Port Fowarding & UFW
 
@@ -57,7 +57,7 @@ nginx의 default conf file을 수정해 위와 같은 포워딩 설정을 완료
 
 추가로 nginx의 default index html을 수정해서 제 도메인으로 접속했을 때, 가이드 페이지를 간단히 제작해봤습니다. 
 
-<img src="/DevOps_html.png">
+<img src="/src/DevOps_html.png">
 
 ## Review
 
